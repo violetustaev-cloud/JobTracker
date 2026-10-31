@@ -1,7 +1,7 @@
 # Internship Job Notifier
 
 I build this project to find software jobs from specific companies.
-The API I used is with Nvidia's Carrer Page.
+The API I used is with Nvidia's Career Page.
 
 The default search looks for Deep Learning Software internships. You can point
 it at a different search by setting `JOBS_URL`.
